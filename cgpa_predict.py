@@ -56,3 +56,5 @@ mycursor.execute(sql, val)
 print("Inserted value into database: ", val)
 mydb.commit()
 print("Your cgpa has been saved into database.")
+
+
